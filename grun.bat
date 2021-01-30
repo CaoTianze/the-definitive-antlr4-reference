@@ -1,0 +1,1 @@
+java -cp "C:\Users\caotianze\Documents\GitHub\the-definitive-antlr4-reference\antlr-4.9.1-complete.jar;." org.antlr.v4.gui.TestRig %*
